@@ -53,7 +53,7 @@ This reflects real startup-level SaaS backend implementation.
 ## 📂 Project Structure
 
 ```
-ExamNotesAI/
+AI Meeting Notes Agent/
 │
 ├── client/          → React Frontend
 ├── server/          → Node + Express Backend
@@ -218,8 +218,8 @@ VITE_FIREBASE_APIKEY
 
 ## 👨‍💻 Author
 
-**Rajratan Rajput**  
-GitHub: https://github.com/rajratan-rajput  
+**Khushbu Chauhan**  
+GitHub: https://github.com/KhushbuChauhan-06 
 
 Full Stack Developer | MERN Stack | Backend Engineering  
 
