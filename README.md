@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-**ExamNotesAI** is a production-style AI-powered SaaS web application that allows users to generate smart exam notes using AI and purchase usage credits securely via Stripe.
+**AI Meeting Notes Agent** is a production-style AI-powered SaaS web application that allows users to generate smart exam notes using AI and purchase usage credits securely via Stripe.
 
 This project demonstrates real-world backend architecture including secure authentication, payment gateway integration, webhook verification, and a credit-based transaction system.
 
