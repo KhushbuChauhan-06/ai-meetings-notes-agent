@@ -1,4 +1,4 @@
- # 🚀 ExamNotesAI – AI Powered Credit-Based SaaS Platform
+ # 🚀 AI Meeting Notes Agent – AI Powered SaaS Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb" />
